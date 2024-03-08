@@ -14,4 +14,4 @@ steps:
   inputs:
     azureSubscription: 'Azure for Students'
     appName: 'Gunasekhar'
-    package: '$(Build.ArtifactStagingDirectory)'
+    package: '.'
